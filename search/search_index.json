@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Home","text":"<p>This is the home page it where the home page text is!</p> <p></p>"},{"location":"New/","title":"New","text":"<p>New Page created in the Github editor</p>"}]}
